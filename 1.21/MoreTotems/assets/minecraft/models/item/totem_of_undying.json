@@ -1,0 +1,21 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/totem_of_undying",
+		"particle": "item/totem_of_undying/texture"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "minecraft:item/shark"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "minecraft:item/unoreverse"
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " B ",
+    "B#B",
+    " B "
+],
+"key": {
+  "#": {
+      "item": "minecraft:totem_of_undying"
+  },
+  "B": {
+      "item": "minecraft:paper"
+  }
+},
+  "result": {
+    "id": "minecraft:totem_of_undying",
+    "components":{
+      "custom_model_data":2,
+      "item_name": "Uno",
+      "hide_additional_tooltip":{}
+
+    },
+    "count": 1
+  }
+  }

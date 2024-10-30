@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:totem_of_undying",
+      "count": 1,
+      "components": {
+        "minecraft:custom_model_data": 1
+      }
+    },
+    "title": "Shark",
+    "description": "Craft a Blahaj totem",
+    "background": "minecraft:textures/block/stone.png",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "rer": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "totemdatapack:shark"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  }
+}
