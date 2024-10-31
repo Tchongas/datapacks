@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "rer": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:totem_of_undying"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "totemdatapack:shark",
+      "totemdatapack:cross",
+      "totemdatapack:unoreverse"
+    ]
+  }
+}

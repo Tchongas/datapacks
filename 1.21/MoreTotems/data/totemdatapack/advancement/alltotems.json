@@ -7,8 +7,8 @@
         "minecraft:custom_model_data": 1
       }
     },
-    "title": "Shark",
-    "description": "Craft a Blahaj totem",
+    "title": "Imortal",
+    "description": "Craft all the new totems",
     "background": "minecraft:textures/block/stone.png",
     "frame": "task",
     "show_toast": true,
@@ -19,7 +19,11 @@
     "rer": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
-        "recipe_id": "totemdatapack:shark"
+        "recipes": [
+          "totemdatapack:shark",
+          "totemdatapack:cross",
+          "totemdatapack:unoreverse"
+        ]
       }
     }
   },
