@@ -16,6 +16,12 @@
 				"custom_model_data": 2
 			},
 			"model": "minecraft:item/unoreverse"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "minecraft:item/cross"
 		}
 	]
 }

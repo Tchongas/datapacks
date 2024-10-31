@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " B ",
+    "B#B",
+    " B "
+],
+"key": {
+  "#": {
+      "item": "minecraft:totem_of_undying"
+  },
+  "B": {
+      "item": "minecraft:oak_planks"
+  }
+},
+  "result": {
+    "id": "minecraft:totem_of_undying",
+    "components":{
+      "custom_model_data":3,
+      "item_name": "Cross",
+      "hide_additional_tooltip":{}
+
+    },
+    "count": 1
+  }
+  }
