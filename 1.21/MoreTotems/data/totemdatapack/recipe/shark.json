@@ -18,7 +18,7 @@
     "id": "minecraft:totem_of_undying",
     "components":{
       "custom_model_data":1,
-      "item_name": "Blahaj",
+      "item_name": "'Blahaj of Undying'",
       "hide_additional_tooltip":{}
 
     },

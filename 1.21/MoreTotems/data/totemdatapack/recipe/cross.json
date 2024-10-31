@@ -18,7 +18,7 @@
     "id": "minecraft:totem_of_undying",
     "components":{
       "custom_model_data":3,
-      "item_name": "Cross",
+      "item_name": "'Cross'",
       "hide_additional_tooltip":{}
 
     },
