@@ -29,7 +29,8 @@
   },
   "rewards": {
     "recipes": [
-      "aiwdatapack:alice_shrink_potion"
+      "aiwdatapack:alice_shrink_potion",
+      "aiwdatapack:alice_shrink_potion_animal"
     ]
   }
 }

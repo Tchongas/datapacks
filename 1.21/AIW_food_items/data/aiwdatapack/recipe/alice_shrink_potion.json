@@ -1,29 +1,29 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "category": "Alice",
+  "category": "misc",
   "ingredients": [
-      {
-          "item": "minecraft:blaze_powder"
-      },
-      {
-          "item": "minecraft:amethyst_shard"
-      },
-      {
-          "item": "minecraft:glass_bottle"
-      }
+    [
+      "minecraft:blaze_powder"
+    ],
+    [
+      "minecraft:glass_bottle"
+    ],
+    [
+      "minecraft:amethyst_shard"
+    ]
   ],
   "result": {
     "id": "minecraft:stick",
-    "components":{
-      "custom_model_data":1,
+    "components": {
+      "item_model": "minecraft:shrink_potion",
       "custom_name":"[{'text':'Weird Drink','italic':false,'color':light_purple}]",
-      "food": {
-        "nutrition":2,
-        "saturation":1,
-        "can_always_eat":true
+      "consumable": {},
+      "minecraft:food": {
+        "nutrition": 1,
+        "saturation": 1.5,
+        "can_always_eat": true
       }
-
     },
-    "count": 7
+    "count": 6
   }
 }

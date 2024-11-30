@@ -13,3 +13,5 @@ function aiw_func:scripts/reset_effect
 execute as @a[scores={AIW_death=1..}] run function aiw_func:private/death
 
 execute unless entity @a[scores={AIW_scale=0..}] run scoreboard players set @s AIW_scale 10
+
+execute as @e[nbt={active_effects:[{id:"minecraft:luck"}]}] run function aiw_func:scripts/mob_bombs

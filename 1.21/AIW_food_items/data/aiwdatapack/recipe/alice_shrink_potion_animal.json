@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    [
+      "minecraft:gunpowder"
+    ],
+    [
+      "minecraft:blaze_powder"
+    ],
+    [
+      "minecraft:glass_bottle"
+    ],
+    [
+      "minecraft:amethyst_shard"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:splash_potion",
+    "components": {
+      "item_model": "minecraft:shrink_potion_animal",
+      "minecraft:custom_name": "[{'text':'Weird Potion','italic':false,'color':light_purple}]",
+      "minecraft:hide_additional_tooltip": {},
+      "minecraft:potion_contents": {
+        "potion": "minecraft:luck",
+        "custom_color": 15062999
+      }
+    },
+    "count": 1
+  }
+}

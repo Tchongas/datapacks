@@ -1,0 +1,2 @@
+execute as @e[type=!minecraft:player,nbt={active_effects:[{id:"minecraft:luck"}]}] run attribute @s minecraft:scale base set 0.6
+execute as @e[nbt={active_effects:[{id:"minecraft:luck"}]}] run effect clear @s minecraft:luck

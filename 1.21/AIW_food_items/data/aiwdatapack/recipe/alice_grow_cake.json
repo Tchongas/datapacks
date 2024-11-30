@@ -1,42 +1,40 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "Alice",
-    "pattern": [
-      "#C#",
-      "SES",
-      "WWW"
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "#C#",
+    "SES",
+    "WWW"
   ],
   "key": {
-      "#": {
-          "item": "minecraft:milk_bucket"
-      },
-      "C": {
-          "item": "minecraft:amethyst_shard"
-      },
-      "S": {
-          "item": "minecraft:sugar"
-      },
-      "E": {
-          "item": "minecraft:egg"
-      },
-      "W": {
-          "item": "minecraft:wheat"
-      }
+    "#": [
+      "minecraft:milk_bucket"
+    ],
+    "C": [
+      "minecraft:amethyst_shard"
+    ],
+    "S": [
+      "minecraft:sugar"
+    ],
+    "E": [
+      "minecraft:egg"
+    ],
+    "W": [
+      "minecraft:wheat"
+    ]
   },
-    "result": {
-      "id": "minecraft:disc_fragment_5",
-      "components":{
-        "custom_model_data":1,
-        "custom_name":"[{'text':'Suspicious Cake','italic':false,'color':light_purple}]",
-        "food": {
-          "nutrition":4,
-          "saturation":1,
-          "can_always_eat":true
-
-        },
-        "hide_additional_tooltip":{}
-
-      },
-      "count": 7
-    }
+  "result": {
+    "id": "minecraft:disc_fragment_5",
+    "components": {
+      "item_model": "minecraft:grow_cake",
+      "minecraft:custom_name": "[{'text':'Suspicious Cake','italic':false,'color':light_purple}]",
+      "consumable": {},
+      "minecraft:food": {
+        "nutrition": 1,
+        "saturation": 1.5,
+        "can_always_eat": true
+      }
+    },
+    "count": 6
   }
+}
