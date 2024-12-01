@@ -7,15 +7,15 @@
 	  "BB "
   ],
   "key": {
-	"#": {
-		"item": "minecraft:string"
-	},
-	"B": {
-		"item": "minecraft:cherry_planks"
-	},
-	"C": {
-		"item": "minecraft:stick"
-	}
+	"#": [
+		"minecraft:string"
+	],
+	"B": [
+		"minecraft:cherry_planks"
+	],
+	"C": [
+		"minecraft:stick"
+	]
   },
 	  "result": {
 		"id": "minecraft:carrot_on_a_stick",

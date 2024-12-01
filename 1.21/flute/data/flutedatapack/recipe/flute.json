@@ -5,23 +5,22 @@
     " # ",
     "BBB",
     "   "
-],
-"key": {
-  "#": {
-      "item": "minecraft:string"
+  ],
+  "key": {
+    "#": [
+      "minecraft:string"
+    ],
+    "B": [
+      "minecraft:bamboo"
+    ]
   },
-  "B": {
-      "item": "minecraft:bamboo"
-  }
-},
   "result": {
     "id": "minecraft:carrot_on_a_stick",
-    "components":{
-      "custom_model_data":1,
-      "item_name": "Flute",
-      "hide_additional_tooltip":{}
-
+    "components": {
+      "minecraft:custom_model_data": 1,
+      "minecraft:item_name": "\"Flute\"",
+      "minecraft:hide_additional_tooltip": {}
     },
     "count": 1
   }
-  }
+}
