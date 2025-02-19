@@ -20,7 +20,11 @@
 	  "result": {
 		"id": "minecraft:carrot_on_a_stick",
 		"components":{
-		  "custom_model_data":7280,
+			"minecraft:custom_model_data": {
+				"strings": [
+				  "7280"
+				]
+			  },
 		  "item_name": "'Warped Guitar'",
 		  "hide_additional_tooltip":{}
   

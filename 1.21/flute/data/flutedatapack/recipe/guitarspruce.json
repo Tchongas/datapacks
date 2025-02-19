@@ -20,7 +20,11 @@
 	  "result": {
 		"id": "minecraft:carrot_on_a_stick",
 		"components":{
-		  "custom_model_data":7279,
+			"minecraft:custom_model_data": {
+				"strings": [
+				  "7279"
+				]
+			  },
 		  "item_name": "'Spruce Guitar'",
 		  "hide_additional_tooltip":{}
   

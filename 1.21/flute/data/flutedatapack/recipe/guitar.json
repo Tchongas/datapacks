@@ -20,7 +20,11 @@
     "result": {
       "id": "minecraft:carrot_on_a_stick",
       "components":{
-        "custom_model_data":7271,
+        "minecraft:custom_model_data": {
+          "strings": [
+            "7271"
+          ]
+        },
         "item_name": "'Oak Guitar'",
         "hide_additional_tooltip":{}
 

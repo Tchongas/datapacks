@@ -7,67 +7,111 @@
 	"overrides": [
 		{
 			"predicate": {
-				"custom_model_data": 1
+				"minecraft:custom_model_data": {
+					"strings": [
+					  "1"
+					]
+				  }
 			},
 			"model": "minecraft:item/flute"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 7271
+				"minecraft:custom_model_data": {
+					"strings": [
+					  "7271"
+					]
+				  }
 			},
 			"model": "minecraft:item/guitar"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 7272
+				"minecraft:custom_model_data": {
+					"strings": [
+					  "7272"
+					]
+				  }
 			},
 			"model": "minecraft:item/guitaracacia"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 7273
+				"minecraft:custom_model_data": {
+					"strings": [
+					  "7273"
+					]
+				  }
 			},
 			"model": "minecraft:item/guitar_birch"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 7274
+				"minecraft:custom_model_data": {
+					"strings": [
+					  "7274"
+					]
+				  }
 			},
 			"model": "minecraft:item/guitar_cherry"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 7275
+				"minecraft:custom_model_data": {
+					"strings": [
+					  "7275"
+					]
+				  }
 			},
 			"model": "minecraft:item/guitar_crimson"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 7276
+				"minecraft:custom_model_data": {
+					"strings": [
+					  "7276"
+					]
+				  }
 			},
 			"model": "minecraft:item/guitar_darkoak"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 7277
+				"minecraft:custom_model_data": {
+					"strings": [
+					  "7277"
+					]
+				  }
 			},
 			"model": "minecraft:item/guitar_jungle"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 7278
+				"minecraft:custom_model_data": {
+					"strings": [
+					  "7278"
+					]
+				  }
 			},
 			"model": "minecraft:item/guitar_mangroove"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 7279
+				"minecraft:custom_model_data": {
+					"strings": [
+					  "7279"
+					]
+				  }
 			},
 			"model": "minecraft:item/guitar_spruce"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 7280
+				"minecraft:custom_model_data": {
+					"strings": [
+					  "7280"
+					]
+				  }
 			},
 			"model": "minecraft:item/guitar_warped"
 		}

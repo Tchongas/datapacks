@@ -4,7 +4,11 @@
       "id": "minecraft:carrot_on_a_stick",
       "count": 1,
       "components": {
-        "minecraft:custom_model_data": 7271
+        "minecraft:custom_model_data": {
+          "strings": [
+            "7271"
+          ]
+        }
       }
     },
     "title": "Is That a Fret?",
