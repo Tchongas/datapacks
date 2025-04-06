@@ -1,0 +1,2 @@
+execute as @a[scores={CM_mined_dirt=1000..}] at @s run summon item ~ ~ ~ {Item:{id:"minecraft:mine_ingredient", Count:1b, components:{"minecraft:item_name":{"translate":"item.minecraft.mine_ingredient.desc","with":[{"color":"red","translate":"world.effect.no_drops.name"}]},"minecraft:world_effect_unlock":{}, "minecraft:world_modifiers":{effects:["minecraft:no_drops"], include_description:1b}}}}
+scoreboard players set @s CM_mined_dirt 0

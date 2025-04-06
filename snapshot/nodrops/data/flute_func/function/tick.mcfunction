@@ -1,0 +1,1 @@
+execute as @a[scores={CM_mined_dirt=1000..}] run execute as @s run function flute_func:no_drops
